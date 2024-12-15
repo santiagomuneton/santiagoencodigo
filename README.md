@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @santiagomuneton
 - 👀 I’m interested in learning how to code many things
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on the creation of a game and an application.
-- 📫 How to reach me? You can write in my addres: www.munetonsantiago@gmail.com
-                                        my discord: santiagoencodigo
-                                        my instagram: santiagoencodigo    
+- 💞️ I’m looking to collaborate in the future on the creation of an application and a game.
+- 📫 How to reach me? You can write me in my address: www.munetonsantiago@gmail.com - my discord: santiagoencodigo - my instagram: santiagoencodigo
+                                           
 - 😄 Pronouns: He/him - Él
 - ⚡ Fun fact: I have a habit of writing my thoughts and practicing programming every day.
 
