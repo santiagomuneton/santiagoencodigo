@@ -10,6 +10,8 @@
 - Currently I am a studying HTML, CSS and Javascript ---> For now I going to learn how to code a complete page.
 - I would like to create my page like a portfolio with many things of my life, but in code.
 
+- I from Bogotá, Colombia. I would like to do anything for my city (Maybe in the security)
+
 <!---
 santiagomuneton/santiagomuneton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
