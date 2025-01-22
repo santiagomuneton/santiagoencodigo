@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santiagomuneton
 - 👀 I’m interested in learning ![how to code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-- 🌱 I’m currently learning ![HTML], ![CSS]. and ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- 🌱 I’m currently learning HTML, CSS and ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - 💞️ I’m looking to collaborate in the future on the creation of an application and a game.
 - 📫 How to reach me? You can write me in my address: [www.munetonsantiago@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/www.munetonsantiago%40gmail.com) - my discord: santiagoencodigo - my instagram: santiagoencodigo
                                            
