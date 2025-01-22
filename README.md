@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code many things
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate in the future on the creation of an application and a game.
-- 📫 How to reach me? You can write me in my address: [www.munetonsantiago@gmail.com](www.munetonsantiago@gmail.com) - my discord: santiagoencodigo - my instagram: santiagoencodigo
+- 📫 How to reach me? You can write me in my address: [www.munetonsantiago@gmail.com]([www.munetonsantiago@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/www.munetonsantiago%40gmail.com) - my discord: santiagoencodigo - my instagram: santiagoencodigo
                                            
 - 😄 Pronouns: He/him - Él
 - ⚡ Fun fact: I have a habit of writing my thoughts and practicing programming every day.
