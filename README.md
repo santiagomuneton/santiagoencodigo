@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate in the future on the creation of an application and a game.
+- 💞️ I’m looking to collaborate in the future on the creation or the improve of many websites.
 
 - <a>have a habit of writing my thoughts and practicing programming every day.</a>
 <br>
