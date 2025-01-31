@@ -10,7 +10,7 @@
 
 - ⌨🖱 I have a habit of writing my thoughts and practicing programming every day.
 <br>
-Currently I am a studying HTML, CSS and Javascript ---> For now I going to learn how to code a complete page.
+For now I going to learn how to code a complete page.
 I would like to create my page like a portfolio with many things of my life, but in code. 
 👀 I'll be a frontend developer
 <!---
